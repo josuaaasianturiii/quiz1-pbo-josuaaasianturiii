@@ -24,7 +24,7 @@ promp 5
 jadi bagaimana mengatasi pakaian yang tertukar?
 
 promp 6
-buat versi finalnnya
+buat versi finalnnya.
 
 promp 7
 coba tambah   sistem agar mahasiswa dapat menambah jenis pakaian yang dia masukkan dan jiak ingin menutup jenis pakaiannya ditamdai dengan "---"4

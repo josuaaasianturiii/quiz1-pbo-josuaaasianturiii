@@ -1,0 +1,26 @@
+promp 1
+jika kamu disuruh untuk memperbaiki sistem laundry yang ada di dalam suatu asrama di kampus apa yang bisa kamu lakukan untuk menjawab soal
+"Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del"
+
+promp2
+dari identifikasi masalah yang kamu beri kami kesusahan dalam
+-pencatatn manual
+pakaian tertukar
+kesalahan penulisan total pakaian di laundry
+
+promp 3
+apa yang bisa dilakukan dalam sistem java ?
+
+promp 4
+apa yang bisa dilakukan dalam sistem java sederhana yang memerlukan sistem logika sederhana 
+yang bisa di run di terminal cmd saja yang mengatasi masalah yang 3 tadi
+?
+
+promp 5
+jadi bagaimana mengatasi pakaian yang tertukar?
+
+promp 6
+buat versi finalnnya
+
+promp 7
+coba tambah sistem agar mahasiswa dapat menambah jenis pakaian yang dia masukkan dan jiak ingin menutup jenis pakaiannya ditamdai dengan "---"4

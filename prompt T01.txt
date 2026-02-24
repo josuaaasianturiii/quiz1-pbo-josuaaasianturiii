@@ -1,0 +1,16 @@
+buatkan kepada saya sebuah code bahasa java yang menerima input pesanan makanan seseorang
+bernama butet dengan code yang memliki isi nama menu dan harganya sebagai berikut yang tersedia di gambar 1
+dan price list harganya di gambar 2, setelah menerima input code makanan diterima ,sistem akan menerima inputan jumlah
+porsi yang akan dimakan oleh butet,setelah itu ucok juga memesan pesanan yang sama dengan butet tetapi ucok memiliki 
+porsi 2x lipat porsi butet,yang mengartikan porsi butet akan dikali 2 untuk pesanan ucok.lalu butet dapat memesan pesanan
+lebih dari satu sebelum butet menutup pesanan dengan "---" 
+
+lalu saya membutuhkan output total makanan yang mereka  makan dengan isi tabel
+menu     porsi     harga     total
+
+lalu total pembayaran otomatis terkena diskon jika
+pesanan >= 100ribu akan didiskon 5%
+pesanan >= 200ribu akan didiskon 10%
+pesanan >= 300ribu akan didiskon 15%
+pesanan >= 400ribu akan didiskon 20%
+pesanan >= 500ribu akan didiskon 25%
